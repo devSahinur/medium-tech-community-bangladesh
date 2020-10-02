@@ -38,3 +38,4 @@ A list of [Medium](https://medium.com) tech writers and publications from Bangla
 - [Taki Elias](https://medium.com/@taki.elias)
 - [Sabbir Ahmed](https://medium.com/@sabbirshawon)
 - [Shalauddin Ahamad Shuza](https://medium.com/@shuza.sa)
+- [Muhammad Lahin](https://medium.com/@lahin31)
